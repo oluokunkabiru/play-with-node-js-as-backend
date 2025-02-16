@@ -1,12 +1,18 @@
-# Just wanna compare practically
+# Just Wanna Compare Practically
 
 ## 📌 Description
-As a lover of PHP and Laravel as backend, I just wanna compare practically what my colleagues are saying about speed of each backend technology and reason why each of them are convinent with the re current stack
+As a fan of PHP and Laravel for the backend, I want to **practically compare** what my colleagues say about the speed and performance of different backend technologies. I'll also explore the reasons why each of them finds their current stack convenient.
 
-## 🛠️ Aim and Object
-1. I will learn NodeJs with express as backend
-2. I will create CRUD based on the above tech stack
-3. While familiarised myself with the new environment, I wil deduce my comparism too
-   ```bash
-   npm run vb
-   
+## 🛠️ Aim and Objectives
+1. Learn **Node.js** with **Express** as the backend.
+2. Create a **CRUD** application using the new tech stack.
+3. While familiarizing myself with the new environment, I will **analyze and compare** both technologies.
+
+## 🚀 Development
+```bash
+npm run vb
+
+
+---
+
+
