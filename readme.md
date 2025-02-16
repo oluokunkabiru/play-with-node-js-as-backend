@@ -11,8 +11,16 @@ As a fan of PHP and Laravel for the backend, I want to **practically compare** w
 ## 🚀 Development
 ```bash
 npm run vb
-
-
 ---
+```
 
+## 🚀 Production
+```bash
+npm run kb
+```
+
+
+### Let Explore
+
+![alt text](image.png)
 
